@@ -1,0 +1,60 @@
+.right{
+    padding-top: 40px;
+}
+
+.Heading{
+    margin: 40px;
+    font-size: x-large;
+    font-weight: 700;
+    width: 630px;
+    color:rgb(209, 230, 249); ;
+    font-family: 'Roboto','Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: 900;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100px;
+}
+
+.card{
+    display: flex;
+    margin: 30px;
+    align-items: center;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.card--stats{
+    padding: 20px;
+}
+.header{
+    display: flex;
+    padding: auto;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    background-color:green;
+    height: 7vh;
+    font-family: 'Roboto','Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: 900;
+    color: rgb(209, 230, 249);
+}
+.footer{
+    display: flex;
+    padding: auto;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    background-color:green;
+    height: 7vh;
+    font-family: 'Roboto','Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: 900;
+    color: rgb(209, 230, 249);
+}
